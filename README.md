@@ -68,7 +68,7 @@ Um sistema completo de gestão e controle de acesso para condomínios, desenvolv
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/condominio-controle-acesso.git
+git clone https://github.com/abenino8/Community-App.git
 cd condominio-controle-acesso
 
 # Instale as dependências
